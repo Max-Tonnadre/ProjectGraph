@@ -1,3 +1,14 @@
 # ninja log v5
-1	299	7309200156182322	CMakeFiles/ProjectGraph.dir/main.c.obj	43de58c40a72bfa1
+2	224	7309216125842681	CMakeFiles/ProjectGraph.dir/main.c.obj	43de58c40a72bfa1
 301	857	7309200161658398	ProjectGraph.exe	fb664bbff62a9983
+18	271	7309217150723696	build.ninja	d8489f3227eeb6a1
+2	184	7309217153417349	CMakeFiles/ProjectGraph.dir/Structure.c.obj	d600920fffa23c9e
+185	339	7309217154877997	ProjectGraph.exe	34299e6483dcf912
+3	150	7309217449102225	CMakeFiles/ProjectGraph.dir/main.c.obj	43de58c40a72bfa1
+151	329	7309217450833164	ProjectGraph.exe	34299e6483dcf912
+2	414	7309217712033489	CMakeFiles/ProjectGraph.dir/main.c.obj	43de58c40a72bfa1
+415	629	7309217714144279	ProjectGraph.exe	34299e6483dcf912
+2	131	7309217772387083	CMakeFiles/ProjectGraph.dir/Structure.c.obj	d600920fffa23c9e
+132	349	7309217774488386	ProjectGraph.exe	34299e6483dcf912
+5	197	7309218363846979	CMakeFiles/ProjectGraph.dir/Structure.c.obj	d600920fffa23c9e
+198	570	7309218367556598	ProjectGraph.exe	34299e6483dcf912
